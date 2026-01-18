@@ -1,0 +1,2 @@
+18.01.2026
+Created first version of News_Tracker - It will print URL in terminal of the news that contain a keyword. 
